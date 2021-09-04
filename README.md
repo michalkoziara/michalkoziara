@@ -19,17 +19,15 @@
 ## Stats about me :chart_with_upwards_trend:
 
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michalkoziara&theme=github&hide_border=true" align="center"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalkoziara&hide_border=true&layout=compact" align="center"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michalkoziara&theme=default"/>
+</div>  
+<div align="center">
+  <img width="32.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michalkoziara&theme=github"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalkoziara&layout=compact"/>
 </div>
-</br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michalkoziara&theme=github&hide_border=true"/>
-</div>  
-</br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michalkoziara&theme=default&hide_border=true"/>
-</div>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michalkoziara&theme=github"/>
+</div>
 
 ## Programming languages and tools that I use :hammer_and_wrench:
 <table align="center">
