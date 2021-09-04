@@ -1,10 +1,10 @@
-# Hi there, I'm Michał 👋
+# Hello there, I'm Michał 👋
 
 :briefcase: I’m currently working on a mobile educational game about trees!
 
 🌱 I’m currently learning Flutter. I belive Flutter is the next big step in cross-platform development.
 
-:e-mail: You can reach me here
+:e-mail: You can reach me here:
 
 <a href="https://linkedin.com/in/michalkoziara" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
