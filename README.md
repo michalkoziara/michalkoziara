@@ -2,7 +2,7 @@
 
 :briefcase: I’m currently working on a mobile educational game about trees!
 
-🌱 I’m currently learning Flutter. I belive Flutter is the next big step in cross-platform development.
+🌱 I’m learning Flutter. I believe Flutter is the next big step in cross-platform development.
 
 :e-mail: You can reach me here:
 
