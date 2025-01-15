@@ -19,7 +19,7 @@
 ## Stats about me :chart_with_upwards_trend:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michalkoziara&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=michalkoziara"/>
 </div>  
 <div align="center">
   <img width="32.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michalkoziara&theme=github"/>
