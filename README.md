@@ -19,14 +19,11 @@
 ## Stats about me :chart_with_upwards_trend:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=michalkoziara"/>
-</div>  
-<div align="center">
-  <img width="32.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michalkoziara&theme=github"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalkoziara&layout=compact"/>
+  <img width="50%" src="https://github-readme-streak-stats-eight.vercel.app/?user=michalkoziara"/>
+  <img width="35.95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalkoziara&layout=compact"/>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michalkoziara&theme=github"/>
+  <img width="86.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michalkoziara&theme=github"/>
 </div>
 
 ## Programming languages and tools that I use :hammer_and_wrench:
